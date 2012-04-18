@@ -1,0 +1,5 @@
+c:\users\jhibbs\documents\visual studio 2010\Projects\photoReisze\photoReisze\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jhibbs\documents\visual studio 2010\Projects\photoReisze\photoReisze\bin\Debug\photoReisze.exe
+c:\users\jhibbs\documents\visual studio 2010\Projects\photoReisze\photoReisze\bin\Debug\photoReisze.pdb
+c:\users\jhibbs\documents\visual studio 2010\Projects\photoReisze\photoReisze\obj\x86\Debug\photoReisze.exe
+c:\users\jhibbs\documents\visual studio 2010\Projects\photoReisze\photoReisze\obj\x86\Debug\photoReisze.pdb
